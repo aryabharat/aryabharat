@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 <!--
+[![Bharat Arya's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/aryabharat)
 **aryabharat/aryabharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
