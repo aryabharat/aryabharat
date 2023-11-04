@@ -3,7 +3,10 @@
 {
   "name": "Bharat Arya",
   "location": "Bengaluru",
-  "current_job": "Backend dev at Cyware Labs",
+  "current_job": {
+      "role": "Backend dev",
+      "company": "Cyware Labs"
+  }
   "skills": ["Node.js", "MongoDb", "Python"],
   "learning": ["devops","go"],
   "connect_at": "aryabharat33@gmail.com",
